@@ -1,0 +1,23 @@
+{
+  "name": "Assignment2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krusha16/todo-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krusha16/todo-list/issues"
+  },
+  "homepage": "https://github.com/Krusha16/todo-list#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
